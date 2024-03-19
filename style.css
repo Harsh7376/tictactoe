@@ -11,7 +11,6 @@ body{
 }
 
 .container{
-    /* background-color: antiquewhite; */
     height: 70vh;
     display: flex;
     align-items: center;
@@ -21,7 +20,6 @@ body{
 .game{
     height: 60vmin;
     width: 60vmin;
-    /* background-color: aqua; */
     display: flex;
     align-items: center;
     justify-content: center;
